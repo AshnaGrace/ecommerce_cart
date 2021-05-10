@@ -1,0 +1,4 @@
+Operations to perform:
+  Apply all migrations: admin, auth, cart, contenttypes, ecommerce, sessions
+Running migrations:
+  Applying cart.0003_alter_cartitem_quantity... OK
